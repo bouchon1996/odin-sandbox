@@ -1,0 +1,14 @@
+.box_one {
+    color: green;
+    padding: 3em;
+    margin: 10em;
+    border: 1em solid black;
+    
+}
+.box_two {
+    color: orange;
+    border: dashed red;
+    padding: 6em;
+    margin: 10em;   
+    border: 1em solid yellow;
+}
